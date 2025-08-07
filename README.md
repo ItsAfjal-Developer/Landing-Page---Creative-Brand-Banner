@@ -32,4 +32,4 @@ This Project is a Modern, Eye-catching Landing Page for a content creation team,
 Below is a Preview of **Landing Page - Creative Brand Banner**, Showcasing the Layout and Styling implemented Using pure HTML , CSS & Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
-<img src="images/Screenshot.png" alt="Landing Page - Creative Brand Banner Preview" width="100%" />
+<img src="Screenshot.png" alt="Landing Page - Creative Brand Banner Preview" width="100%" />
